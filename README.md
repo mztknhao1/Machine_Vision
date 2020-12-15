@@ -23,3 +23,7 @@
 * 最小二乘拟合球面
 
 * 显示
+
+最终效果如下图所示 ![result](./result/result.png)
+
+![ball](./result/ball.png)
