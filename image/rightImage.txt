@@ -1,0 +1,7 @@
+../image/r1.bmp
+../image/r2.bmp
+../image/r3.bmp
+../image/r4.bmp
+../image/r5.bmp
+../image/r6.bmp
+../image/r7.bmp
